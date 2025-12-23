@@ -1,10 +1,10 @@
 # Hi, I'm Apurva Patil👋
 
-**🎓 M.Sc. in Information Technology (Graduate)** 🚀 **Open Source Contributor** | **Python & AI/ML Enthusiast** 
+**🎓 M.Sc. in Information Technology (Graduate)** 
+
+🚀 **Open Source Contributor** | **Python & AI/ML Enthusiast** 
 
 💻 **Aspiring Google Summer of Code 2026 contributor** 
-
-🌱 Currently diving deep into **Retrieval-Augmented Generation (RAG)** and **Open Source Workflows**.
 
 I’m a curious and motivated developer interested in building impactful software using **Python, data, and AI-driven tools**. I enjoy learning by building projects and contributing to open-source communities.
 
