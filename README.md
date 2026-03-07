@@ -37,6 +37,12 @@ I am actively looking to contribute to organizations focusing on:
 
 ---
 
+### 📚 Research & Publications
+* **Enigma Sound : AI driven Music Generation with Emotional Intelligence** | *Published in IEEE Xplore*
+  > [**View Publication**](https://ieeexplore.ieee.org/document/10932090)
+
+---
+
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/apurva-s-patil/) | [Portfolio](https://apurvapatil2401.github.io/My_Portfolio/) | [Email](apurvaspatil24@gmail.com)
 
