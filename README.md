@@ -24,6 +24,7 @@ I’m a curious and motivated developer interested in building impactful softwar
 - **[rag-agent](https://github.com/ApurvaPatil2401/rag-agent)** – A local RAG system using LLMs for private document querying. Focus: Vector databases & Prompt Engineering.
 - **[Womens_Health_and_Wellness](https://github.com/ApurvaPatil2401/Womens_Health_and_Wellness)** – Data-driven platform providing health insights through analytics. Focus: Data Visualization & User Impact.
 - **[Enigma Sound](https://github.com/ApurvaPatil2401/Enigma_Sound)**- It utilizes Multi-modal AI to analyze text, voice, and facial expressions to detect emotions and generate melodies using Music21 and FluidSynth or recommend Spotify songs.
+- **[Yukti](https://github.com/ApurvaPatil2401/Yukti)** – A high-engagement guardian framework. Impact: Gained 50+ community clones within two weeks, demonstrating its utility in real-world safety applications.
 
 ---
 
