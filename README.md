@@ -2,9 +2,8 @@
 
 **🎓 M.Sc. in Information Technology (Graduate)** 
 
-🚀 **Open Source Contributor** | **Python & AI/ML Enthusiast** 
+🚀 **Open Source Contributor** | **Python & AI/ML Enthusiast** | **GSoC '26 Participant**
 
-💻 **Aspiring Google Summer of Code 2026 contributor** 
 
 I’m a curious and motivated developer interested in building impactful software using **Python, data, and AI-driven tools**. I enjoy learning by building projects and contributing to open-source communities.
 
@@ -28,25 +27,20 @@ I’m a curious and motivated developer interested in building impactful softwar
 
 ---
 
-### 📈 GSoC 2026 Goals
-I am actively looking to contribute to organizations focusing on:
-* **AI/ML Infrastructure** (e.g., TensorFlow, PyTorch, Scikit-learn,Python)
-* **Developer productivity tools**
-* **Community-driven open-source software**
-* **Data Science Tooling** (e.g., Pandas)
-* **Healthcare Tech** 
-
----
-
 ### 📚 Research & Publications
 * **Enigma Sound : AI driven Music Generation with Emotional Intelligence** | *Published in IEEE Xplore*
   > [**View Publication**](https://ieeexplore.ieee.org/document/10932090)
 
 ---
 
-### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/apurva-s-patil/) | [Portfolio](https://apurvapatil2401.github.io/My_Portfolio/) | [Email](apurvaspatil24@gmail.com)
+### 🎯 Currently
+-  Building production-ready AI applications with FastAPI & RAG
+-  Exploring Agentic AI and LLM orchestration
+-  Open to collaborating on AI/ML open source projects
+-  Actively seeking backend/AI developer roles in Mumbai
 
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/apurva-s-patil/) | [Portfolio](https://apurvapatil2401.github.io/My_Portfolio/) | [Email](mailto:apurvaspatil24@gmail.com)
 ---
 
 ⭐ I believe in consistent learning, clear communication, and giving back through open source.
