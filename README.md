@@ -1,6 +1,6 @@
 # Hi, I'm Apurva Patil👋
 
-## Actively seeking backend/AI developer roles in Mumbai
+## Actively seeking backend/AI developer roles 
 **🎓 M.Sc. in Information Technology (Graduate)** 
 
 🚀 **Open Source Contributor** | **Python & AI/ML Enthusiast** | **GSoC '26 Participant**
