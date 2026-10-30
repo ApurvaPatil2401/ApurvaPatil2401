@@ -3,8 +3,7 @@
 ## Actively seeking backend/AI developer roles 
 **🎓 M.Sc. in Information Technology** 
 
-🚀 **Open Source Contributor** | **Python & AI/ML Enthusiast** | **GSoC '26 Participant**
-
+🚀 **Open Source Contributor** | **Python & AI/ML Enthusiast** 
 
 I’m a curious and motivated developer interested in building impactful software using **Python, data, and AI-driven tools**. I enjoy learning by building projects and contributing to open-source communities.
 
