@@ -11,9 +11,9 @@ I’m a curious and motivated developer interested in building impactful softwar
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python (Primary), SQL, Dart, javascript(basics)
+- **Languages:** Python (Primary), SQL, Dart, Javascript(basics)
 - **AI/ML:** PyTorch, Scikit-learn, LangChain, RAG, Local LLMs (Ollama/Llama)
-- **Tools & Platforms:** Git, GitHub, Docker, Power BI
+- **Tools & Platforms:** FastAPI, Flask, Git, GitHub, Docker, Power BI
 - **Web:** HTML, CSS
 
 ---
@@ -23,13 +23,17 @@ I’m a curious and motivated developer interested in building impactful softwar
 - **[rag-agent](https://github.com/ApurvaPatil2401/rag-agent)** – A local RAG system using LLMs for private document querying. Focus: Vector databases & Prompt Engineering.
 - **[Womens_Health_and_Wellness](https://github.com/ApurvaPatil2401/Womens_Health_and_Wellness)** – Data-driven platform providing health insights through analytics. Focus: Data Visualization & User Impact.
 - **[Enigma Sound](https://github.com/ApurvaPatil2401/Enigma_Sound)**- It utilizes Multi-modal AI to analyze text, voice, and facial expressions to detect emotions and generate melodies using Music21 and FluidSynth or recommend Spotify songs.
-- **[Yukti](https://github.com/ApurvaPatil2401/Yukti)** – A high-engagement guardian framework. Impact: Gained 50+ community clones within two weeks, demonstrating its utility in real-world safety applications.
+- **[Yukti](https://github.com/ApurvaPatil2401/Yukti)** –The Guarded IDE – An AI-powered coding mentor designed to prioritize conceptual understanding over instant solutions. *Impact:* Gained 50+ community clones within two weeks, demonstrating strong adoption among developers.
+
 
 ---
 
-### 📚 Research & Publications
-* **Enigma Sound : AI driven Music Generation with Emotional Intelligence** | *Published in IEEE Xplore*
-  > [**View Publication**](https://ieeexplore.ieee.org/document/10932090)
+### 📚 Publications & Verified Certifications
+- **Enigma Sound: AI driven Music Generation with Emotional Intelligence** | *Published in IEEE Xplore*
+   > [**View Publication**](https://ieeexplore.ieee.org/document/10932090)
+- **Verified Digital Badges:** [View Credly Profile](https://credly.com)
+- **Additional Certifications:** Oracle Cloud AI Foundations, Microsoft Power BI, IBM Python & Flask Development (Coursera)
+
 
 ---
 
