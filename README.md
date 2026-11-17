@@ -41,7 +41,7 @@ I’m a curious and motivated developer interested in building impactful softwar
 -  Building production-ready AI applications with FastAPI & RAG
 -  Exploring Agentic AI and LLM orchestration
 -  Open to collaborating on AI/ML open source projects
--  Actively seeking backend/AI developer roles in Mumbai or remote India
+-  Actively seeking backend/AI developer roles in Mumbai, India or remote India
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/apurva-s-patil/) | [Portfolio](https://apurvapatil2401.github.io/My_Portfolio/) | [Email](mailto:apurvaspatil24@gmail.com)
